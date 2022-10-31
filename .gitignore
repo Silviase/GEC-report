@@ -1,2 +1,2 @@
-!datasets/README.md
 datasets/*
+!datasets/README.md
